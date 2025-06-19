@@ -11,8 +11,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Course Work",
-            "url": "/coursework",
+            "label": "pricing",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
