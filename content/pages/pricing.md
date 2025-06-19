@@ -1,22 +1,20 @@
 ---
-title: Pricing
-slug: pricing
+title: Course Work
+slug: course-work
 sections:
   - title:
-      text: Flexible Pricing
+      text: Modules
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Course material is delivered in three modules.
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
+      - title: Module 1
+        subtitle: The Historian at Work
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          What does it mean to **Craft Digital History?**
         features:
           - Feature one
           - Feature two
