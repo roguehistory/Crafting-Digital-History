@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Crafting Digital History
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: HIST 3814a/DIGH 3814a
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
