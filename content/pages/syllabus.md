@@ -21,7 +21,7 @@ sections:
           - Feature four
         image:
           url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
-          altText: Pricing plan 1
+          altText: Historians at Work
           type: ImageBlock
         actions:
           - label: Try for free
