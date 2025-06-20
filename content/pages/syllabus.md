@@ -42,7 +42,7 @@ sections:
         price: What does it mean to Craft Digital History?
         details: ''
       - title: 'Module Two: Linking Your Thinking'
-        price: $99
+        price: ''
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
