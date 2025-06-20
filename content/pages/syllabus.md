@@ -13,7 +13,10 @@ sections:
     plans:
       - title: 'Module One:                                 The Historian At Work'
         subtitle: The Historian at Work
-        description: What does it mean to **Craft Digital History?**
+        description: >+
+          <div style="text-align: center">What does it mean to **Craft Digital
+          History?**</div>
+
         features:
           - Feature one
           - Feature two
@@ -21,7 +24,7 @@ sections:
           - Feature four
         image:
           url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
-          altText: Pricing plan 1
+          altText: Historians at Work
           type: ImageBlock
         actions:
           - label: Try for free
