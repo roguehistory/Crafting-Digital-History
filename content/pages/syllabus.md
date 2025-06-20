@@ -18,7 +18,6 @@ sections:
           History?**</div>
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
