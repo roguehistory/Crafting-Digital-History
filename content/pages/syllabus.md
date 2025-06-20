@@ -71,7 +71,7 @@ sections:
         type: PricingPlan
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Nodes and Edges.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
