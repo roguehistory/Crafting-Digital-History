@@ -19,7 +19,6 @@ sections:
 
         features:
           - Feature two
-          - Feature three
           - Feature four
         image:
           url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
