@@ -40,7 +40,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-        price: The Historian at Work
+        price: ''
       - title: Professional
         price: $99
         details: per month
