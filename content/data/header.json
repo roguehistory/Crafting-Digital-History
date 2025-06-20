@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Syllabus",
-            "url": "/CourseWork",
+            "url": "/syllabus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
