@@ -67,7 +67,7 @@ sections:
               - pb-10
               - pl-6
               - pr-6
-            borderRadius: x-large
+            borderRadius: xx-large
         type: PricingPlan
         image:
           type: ImageBlock
