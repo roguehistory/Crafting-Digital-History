@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Course material is delivered in three modules.
     plans:
-      - title: 'Module One: The Historian At Work'
+      - title: 'Module One:                                  The Historian At Work'
         subtitle: The Historian at Work
         description: What does it mean to **Craft Digital History?**
         features:
