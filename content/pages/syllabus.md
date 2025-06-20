@@ -37,7 +37,7 @@ sections:
               - pb-10
               - pl-6
               - pr-6
-            borderRadius: large
+            borderRadius: xx-large
             textAlign: center
         type: PricingPlan
         price: ''
