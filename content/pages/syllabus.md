@@ -17,8 +17,7 @@ sections:
           <div style="text-align: center">What does it mean to **Craft Digital
           History?**</div>
 
-        features:
-          - Feature two
+        features: []
         image:
           url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
           altText: Historians at Work
