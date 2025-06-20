@@ -39,7 +39,7 @@ sections:
             textAlign: center
             borderColor: border-neutral
         type: PricingPlan
-        price: What does it mean to Craft Digital History?
+        price: ''
         details: ''
       - title: 'Module Two: Linking Your Thinking'
         price: ''
