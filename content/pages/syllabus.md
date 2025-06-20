@@ -54,7 +54,7 @@ sections:
           - Feature four
         image:
           url: /images/Screenshot 2024-11-07 at 11.28.56 AM 2.jpeg
-          altText: Pricing plan 2
+          altText: ''
           type: ImageBlock
         actions:
           - label: Try for free
