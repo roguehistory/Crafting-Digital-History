@@ -52,10 +52,6 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-        image:
-          url: /images/Screenshot 2024-11-07 at 11.28.56 AM 2.jpeg
-          altText: ''
-          type: ImageBlock
         actions:
           - label: Try for free
             url: /
