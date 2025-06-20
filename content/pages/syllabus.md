@@ -13,15 +13,9 @@ sections:
     plans:
       - title: 'Module One:                                 The Historian At Work'
         subtitle: The Historian at Work
-        description: >+
-          <div style="text-align: center">What does it mean to **Craft Digital
-          History?**</div>
+        description: |+
 
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        features: []
         image:
           url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
           altText: Historians at Work
@@ -41,12 +35,15 @@ sections:
               - pb-10
               - pl-6
               - pr-6
-            borderRadius: large
+            borderRadius: xx-large
+            textAlign: center
+            borderColor: border-neutral
         type: PricingPlan
         price: ''
-      - title: Professional
-        price: $99
-        details: per month
+        details: What does it mean to Craft Digital History?
+      - title: 'Module Two: Linking Your Thinking'
+        price: ''
+        details: 'Data, Identifiers and Visualization'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -55,10 +52,6 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
         actions:
           - label: Try for free
             url: /
@@ -76,6 +69,14 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
+        image:
+          type: ImageBlock
+          url: /images/Nodes and Edges.png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
       - title: Enterprise
         price: Custom
         details: per month
