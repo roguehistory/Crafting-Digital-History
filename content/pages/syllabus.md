@@ -1,6 +1,6 @@
 ---
-title: Course Work
-slug: course-work
+title: Syllabus
+slug: syllabus
 sections:
   - title:
       text: Modules
