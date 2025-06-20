@@ -53,7 +53,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2024-11-07 at 11.28.56 AM 2.jpeg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
