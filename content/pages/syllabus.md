@@ -40,7 +40,7 @@ sections:
             borderColor: border-neutral
         type: PricingPlan
         price: ''
-        details: ''
+        details: What does it mean to Craft Digital History?
       - title: 'Module Two: Linking Your Thinking'
         price: ''
         details: 'Data, Identifiers and Visualization'
