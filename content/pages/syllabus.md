@@ -39,6 +39,7 @@ sections:
               - pr-6
             borderRadius: xx-large
             textAlign: center
+            borderColor: border-neutral
         type: PricingPlan
         price: ''
         details: ''
