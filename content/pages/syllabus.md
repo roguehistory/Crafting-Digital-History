@@ -68,6 +68,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: xx-large
+            borderWidth: 2
         type: PricingPlan
         image:
           type: ImageBlock
