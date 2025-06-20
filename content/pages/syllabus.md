@@ -20,7 +20,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Discussing-the-Divine-Comedy-with-Dante.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
