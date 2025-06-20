@@ -41,7 +41,7 @@ sections:
         type: PricingPlan
         price: What does it mean to Craft Digital History?
         details: ''
-      - title: Professional
+      - title: 'Module Two: '
         price: $99
         details: per month
         description: >-
