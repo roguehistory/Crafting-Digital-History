@@ -40,6 +40,7 @@ sections:
             borderRadius: large
         type: PricingPlan
         price: ''
+        details: hello
       - title: Professional
         price: $99
         details: per month
