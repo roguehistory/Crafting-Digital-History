@@ -43,7 +43,7 @@ sections:
         details: ''
       - title: 'Module Two: Linking Your Thinking'
         price: ''
-        details: per month
+        details: 'Data, Identifiers and Visualization'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
