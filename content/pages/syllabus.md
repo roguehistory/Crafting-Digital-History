@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Course material is delivered in three modules.
     plans:
-      - title: Module 1
+      - title: 'Module One:                                 The Historian At Work'
         subtitle: The Historian at Work
         description: What does it mean to **Craft Digital History?**
         features:
@@ -30,7 +30,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -40,6 +40,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
+        price: ''
       - title: Professional
         price: $99
         details: per month
