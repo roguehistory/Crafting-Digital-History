@@ -13,8 +13,7 @@ sections:
     plans:
       - title: Module 1
         subtitle: The Historian at Work
-        description: >-
-          What does it mean to **Craft Digital History?**
+        description: What does it mean to **Craft Digital History?**
         features:
           - Feature one
           - Feature two
