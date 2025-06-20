@@ -13,9 +13,8 @@ sections:
     plans:
       - title: 'Module One:                                 The Historian At Work'
         subtitle: The Historian at Work
-        description: >+
-          <div style="text-align: center">What does it mean to **Craft Digital
-          History?**</div>
+        description: |+
+          <div style="text-align: left">****</div>
 
         features: []
         image:
